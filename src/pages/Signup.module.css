@@ -1,0 +1,8 @@
+.all {
+    text-align: center;
+    align-items: center;
+}
+.customError {
+    color: red;
+    font-size: '0.8rem';
+}
